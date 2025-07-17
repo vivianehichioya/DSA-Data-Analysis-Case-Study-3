@@ -33,7 +33,16 @@ The dataset used for this project is from Palmoria Group, a manufacturing compan
   - DAX was used for the calculations.
   - Amount paid to individual employees: Custom column was added and named to "Bonus Payments".
     - Formula: Salary*Bonus Value
-  - Total amount paid to individual employees: Custom column was added and named "Total Salary".
+  - Total amount paid to individual employees: Custom column was added and named "Total Salary This only applied to the rated employees.
     - Formula: Salary+Bonus Payments
    
 ## **Visualisation of Results**
+<img width="1457" height="853" alt="Visual 1" src="https://github.com/user-attachments/assets/a9d2b2ce-8004-4f98-9077-394f38a670f6" />
+<img width="1448" height="828" alt="Visual 2" src="https://github.com/user-attachments/assets/84638bd4-5216-4e87-912b-ba3c58fd4d9d" />
+<img width="1470" height="847" alt="Visual 3" src="https://github.com/user-attachments/assets/64171a88-82ac-4700-8501-cb4f6d6d0513" />
+<img width="1206" height="710" alt="Visual 4" src="https://github.com/user-attachments/assets/384cb604-1565-43d2-bc3d-05c63a92c3dd" />
+
+
+
+
+
